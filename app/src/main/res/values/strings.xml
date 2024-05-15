@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dynamic-urls-compose</string>
+    <string name="user">User</string>
+</resources>
